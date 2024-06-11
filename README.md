@@ -18,4 +18,6 @@ https://ashishvelhal.github.io/Temperature-/
 * it will give you  alert if city name not matched with api  data.
 * a good  ux/ui 
 
+### Thanks
 
+If you like this portfolio  don't forget give it a ⭐ 
